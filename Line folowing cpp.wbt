@@ -1,0 +1,1784 @@
+#VRML_SIM R2020a utf8
+WorldInfo {
+}
+Viewpoint {
+  orientation -0.4436706995717965 -0.7405043640817698 -0.5047866847662749 2.0037525657844677
+  position 9.337127279973139 10.408302322976548 4.215920336379771
+  follow "robot(1)"
+}
+TexturedBackground {
+}
+TexturedBackgroundLight {
+}
+Floor {
+  size 155 155
+  appearance PBRAppearance {
+    metalness 0
+  }
+}
+Solid {
+  translation -2.12052 0.0001 6.31313
+  rotation 0 1 0 -1.8325853071795866
+  children [
+    DEF dsd Shape {
+      appearance Appearance {
+        material Material {
+          diffuseColor 0 0 0
+        }
+        texture ImageTexture {
+        }
+        textureTransform TextureTransform {
+        }
+      }
+      geometry Box {
+        size 0.09 0.001 5
+      }
+    }
+  ]
+  name "solid(23)"
+  recognitionColors [
+    1 0 0
+  ]
+}
+Solid {
+  translation 2.62219 0.0001 7.58384
+  rotation 0 1 0 -1.8325853071795866
+  children [
+    DEF dsd Shape {
+      appearance Appearance {
+        material Material {
+          diffuseColor 0 0 0
+        }
+        texture ImageTexture {
+        }
+        textureTransform TextureTransform {
+        }
+      }
+      geometry Box {
+        size 0.09 0.001 5
+      }
+    }
+  ]
+  name "solid(20)"
+  recognitionColors [
+    1 0 0
+  ]
+}
+Solid {
+  translation 6.51169 0.0001 8.21295
+  rotation 0 -1 0 1.57079
+  children [
+    DEF dsd Shape {
+      appearance Appearance {
+        material Material {
+          diffuseColor 0 0 0
+        }
+        texture ImageTexture {
+        }
+        textureTransform TextureTransform {
+        }
+      }
+      geometry Box {
+        size 0.09 0.001 3
+      }
+    }
+  ]
+  name "solid(21)"
+  recognitionColors [
+    1 0 0
+  ]
+}
+Solid {
+  translation 8.13169 0.0001 8.21295
+  rotation 0 -1 0 1.57079
+  children [
+    DEF dsd Shape {
+      appearance Appearance {
+        material Material {
+          diffuseColor 0 0 0
+        }
+        texture ImageTexture {
+        }
+        textureTransform TextureTransform {
+        }
+      }
+      geometry Box {
+        size 0.09 0.001 3
+      }
+    }
+  ]
+  name "solid(55)"
+  recognitionColors [
+    1 0 0
+  ]
+}
+Solid {
+  translation 11.7829 0.0001 9.44931
+  rotation 0 1 0 -2.0943853071795866
+  children [
+    DEF dsd Shape {
+      appearance Appearance {
+        material Material {
+          diffuseColor 0 0 0
+        }
+        texture ImageTexture {
+        }
+        textureTransform TextureTransform {
+        }
+      }
+      geometry Box {
+        size 0.09 0.001 5
+      }
+    }
+  ]
+  name "solid(56)"
+  recognitionColors [
+    1 0 0
+  ]
+}
+Solid {
+  translation 11.7212 0.0001 9.65617
+  rotation 0 -1 0 0.523589
+  children [
+    DEF dsd Shape {
+      appearance Appearance {
+        material Material {
+          diffuseColor 0 0 0
+        }
+        texture ImageTexture {
+        }
+        textureTransform TextureTransform {
+        }
+      }
+      geometry Box {
+        size 0.09 0.001 5
+      }
+    }
+  ]
+  name "solid(53)"
+  recognitionColors [
+    1 0 0
+  ]
+}
+Solid {
+  translation 12.3113 0.0001 5.075
+  rotation 0 -1 0 -0.2618053071795865
+  children [
+    DEF dsd Shape {
+      appearance Appearance {
+        material Material {
+          diffuseColor 0 0 0
+        }
+        texture ImageTexture {
+        }
+        textureTransform TextureTransform {
+        }
+      }
+      geometry Box {
+        size 0.09 0.001 5
+      }
+    }
+  ]
+  name "solid(22)"
+  recognitionColors [
+    1 0 0
+  ]
+}
+Solid {
+  translation 12.3191 0.0001 5.10398
+  rotation 0 -1 0 -0.2618053071795865
+  children [
+    DEF dsd Shape {
+      appearance Appearance {
+        material Material {
+          diffuseColor 0 0 0
+        }
+        texture ImageTexture {
+        }
+        textureTransform TextureTransform {
+        }
+      }
+      geometry Box {
+        size 0.09 0.001 5
+      }
+    }
+  ]
+  name "solid(52)"
+  recognitionColors [
+    1 0 0
+  ]
+}
+Solid {
+  translation 11.9038 0.0001 1.74561
+  rotation 0 1 0 2.8798
+  children [
+    DEF dsd Shape {
+      appearance Appearance {
+        material Material {
+          diffuseColor 0 0 0
+        }
+        texture ImageTexture {
+        }
+        textureTransform TextureTransform {
+        }
+      }
+      geometry Box {
+        size 0.09 0.001 2
+      }
+    }
+  ]
+  name "solid(19)"
+  recognitionColors [
+    1 0 0
+  ]
+}
+Solid {
+  translation -6.25477 0.0001 5.20546
+  rotation 0 1 0 -1.8325853071795866
+  children [
+    DEF dsd Shape {
+      appearance Appearance {
+        material Material {
+          diffuseColor 0 0 0
+        }
+        texture ImageTexture {
+        }
+        textureTransform TextureTransform {
+        }
+      }
+      geometry Box {
+        size 0.09 0.001 5
+      }
+    }
+  ]
+  name "solid(24)"
+  recognitionColors [
+    1 0 0
+  ]
+}
+Solid {
+  translation -12.9777 0.0001 0.87098
+  rotation 0 1 0 -2.617985307179586
+  children [
+    DEF dsd Shape {
+      appearance Appearance {
+        material Material {
+          diffuseColor 0 0 0
+        }
+        texture ImageTexture {
+        }
+        textureTransform TextureTransform {
+        }
+      }
+      geometry Box {
+        size 0.09 0.001 5
+      }
+    }
+  ]
+  name "solid(35)"
+  recognitionColors [
+    1 0 0
+  ]
+}
+Solid {
+  translation -13.4677 0.0001 0.0222832
+  rotation 0 1 0 -2.617985307179586
+  children [
+    DEF dsd Shape {
+      appearance Appearance {
+        material Material {
+          diffuseColor 0 0 0
+        }
+        texture ImageTexture {
+        }
+        textureTransform TextureTransform {
+        }
+      }
+      geometry Box {
+        size 0.09 0.001 5
+      }
+    }
+  ]
+  name "solid(27)"
+  recognitionColors [
+    1 0 0
+  ]
+}
+Solid {
+  translation 9.15213 0 10
+  rotation 0 1 0 -0.261795307179586
+  children [
+    DEF dsd Shape {
+      appearance Appearance {
+        material Material {
+          diffuseColor 1 1 1
+        }
+        texture ImageTexture {
+        }
+        textureTransform TextureTransform {
+        }
+      }
+      geometry Box {
+        size 1 0.001 1
+      }
+    }
+  ]
+  name "solid(50)"
+  recognitionColors [
+    1 0 0
+  ]
+}
+Solid {
+  translation 11.5731 0.01 10.9943
+  rotation 0 1 0 -0.523595307179586
+  children [
+    DEF dsd Shape {
+      appearance Appearance {
+        material Material {
+          diffuseColor 1 1 1
+        }
+        texture ImageTexture {
+        }
+        textureTransform TextureTransform {
+        }
+      }
+      geometry Box {
+        size 1 0.001 1
+      }
+    }
+  ]
+  name "solid(54)"
+  recognitionColors [
+    1 0 0
+  ]
+}
+Solid {
+  translation 11.3531 0.01 11.3762
+  rotation 0 1 0 -0.523595307179586
+  children [
+    DEF dsd Shape {
+      appearance Appearance {
+        material Material {
+          diffuseColor 1 1 1
+        }
+        texture ImageTexture {
+        }
+        textureTransform TextureTransform {
+        }
+      }
+      geometry Box {
+        size 1 0.001 1
+      }
+    }
+  ]
+  name "solid(62)"
+  recognitionColors [
+    1 0 0
+  ]
+}
+Solid {
+  translation 11.5731 0.01 10.9943
+  rotation 0 1 0 -0.523595307179586
+  children [
+    DEF dsd Shape {
+      appearance Appearance {
+        material Material {
+          diffuseColor 1 1 1
+        }
+        texture ImageTexture {
+        }
+        textureTransform TextureTransform {
+        }
+      }
+      geometry Box {
+        size 1 0.001 1
+      }
+    }
+  ]
+  name "solid(57)"
+  recognitionColors [
+    1 0 0
+  ]
+}
+Solid {
+  translation 11.5731 0.01 10.9943
+  rotation 0 1 0 -0.523595307179586
+  children [
+    DEF dsd Shape {
+      appearance Appearance {
+        material Material {
+          diffuseColor 1 1 1
+        }
+        texture ImageTexture {
+        }
+        textureTransform TextureTransform {
+        }
+      }
+      geometry Box {
+        size 1 0.001 1
+      }
+    }
+  ]
+  name "solid(58)"
+  recognitionColors [
+    1 0 0
+  ]
+}
+Solid {
+  translation 12.0281 0.01 10.2036
+  rotation 0 1 0 -0.523595307179586
+  children [
+    DEF dsd Shape {
+      appearance Appearance {
+        material Material {
+          diffuseColor 1 1 1
+        }
+        texture ImageTexture {
+        }
+        textureTransform TextureTransform {
+        }
+      }
+      geometry Box {
+        size 1 0.001 1
+      }
+    }
+  ]
+  name "solid(59)"
+  recognitionColors [
+    1 0 0
+  ]
+}
+Solid {
+  translation 13.2366 0.01 10.8986
+  rotation 0 1 0 -0.523595307179586
+  children [
+    DEF dsd Shape {
+      appearance Appearance {
+        material Material {
+          diffuseColor 1 1 1
+        }
+        texture ImageTexture {
+        }
+        textureTransform TextureTransform {
+        }
+      }
+      geometry Box {
+        size 1 0.001 1
+      }
+    }
+  ]
+  name "solid(60)"
+  recognitionColors [
+    1 0 0
+  ]
+}
+Solid {
+  translation 12.8283 0.01 10.6636
+  rotation 0 1 0 -0.523595307179586
+  children [
+    DEF dsd Shape {
+      appearance Appearance {
+        material Material {
+          diffuseColor 1 1 1
+        }
+        texture ImageTexture {
+        }
+        textureTransform TextureTransform {
+        }
+      }
+      geometry Box {
+        size 1 0.001 1
+      }
+    }
+  ]
+  name "solid(61)"
+  recognitionColors [
+    1 0 0
+  ]
+}
+Solid {
+  translation 12.7162 0.0071 12.8182
+  children [
+    Shape {
+      appearance Appearance {
+        material Material {
+          diffuseColor 1 1 1
+        }
+      }
+      geometry Cylinder {
+        height 0.001
+        radius 2.4
+      }
+    }
+    Shape {
+      appearance DEF BL Appearance {
+        material Material {
+          diffuseColor 0 0 0
+        }
+      }
+      geometry Cylinder {
+        height 0.0001
+        radius 2.5
+      }
+    }
+  ]
+  name "solid(51)"
+}
+Solid {
+  translation -13.4677 0.0001 0.0222832
+  rotation 0 1 0 -2.617985307179586
+  children [
+    DEF dsd Shape {
+      appearance Appearance {
+        material Material {
+          diffuseColor 0 0 0
+        }
+        texture ImageTexture {
+        }
+        textureTransform TextureTransform {
+        }
+      }
+      geometry Box {
+        size 0.09 0.001 5
+      }
+    }
+  ]
+  name "solid(44)"
+  recognitionColors [
+    1 0 0
+  ]
+}
+Solid {
+  translation -0.00965933 0.002 -0.0025881
+  rotation 0 1 0 -0.261795307179586
+  children [
+    Shape {
+      appearance Appearance {
+        material Material {
+          diffuseColor 1 1 1
+        }
+      }
+      geometry Cylinder {
+        height 0.001
+        radius 2.4
+      }
+    }
+    Shape {
+      appearance DEF BL Appearance {
+        material Material {
+          diffuseColor 0 0 0
+        }
+      }
+      geometry Cylinder {
+        height 0.0001
+        radius 2.5
+      }
+    }
+  ]
+  name "solid(2)"
+}
+Solid {
+  translation 5.38504 0.002 -1.27989
+  rotation 0 1 0 -0.261795307179586
+  children [
+    Shape {
+      appearance Appearance {
+        material Material {
+          diffuseColor 1 1 1
+        }
+      }
+      geometry Cylinder {
+        height 0.0015
+        radius 2.4
+      }
+    }
+    Shape {
+      appearance DEF BL Appearance {
+        material Material {
+          diffuseColor 0 0 0
+        }
+      }
+      geometry Cylinder {
+        height 0.0001
+        radius 2.5
+      }
+    }
+  ]
+  name "solid(7)"
+}
+Solid {
+  translation 9.87225 0.002 -0.0983097
+  rotation 0 1 0 -0.261795307179586
+  children [
+    Shape {
+      appearance Appearance {
+        material Material {
+          diffuseColor 1 1 1
+        }
+      }
+      geometry Cylinder {
+        height 0.0015
+        radius 2.4
+      }
+    }
+    Shape {
+      appearance DEF BL Appearance {
+        material Material {
+          diffuseColor 0 0 0
+        }
+      }
+      geometry Cylinder {
+        height 0.0001
+        radius 2.5
+      }
+    }
+  ]
+  name "solid(8)"
+}
+Solid {
+  translation -4.03722 0.002 -3.82533
+  rotation 0 1 0 -0.261795307179586
+  children [
+    Shape {
+      appearance Appearance {
+        material Material {
+          diffuseColor 1 1 1
+        }
+      }
+      geometry Cylinder {
+        height 0.0015
+        radius 2.4
+      }
+    }
+    Shape {
+      appearance DEF BL Appearance {
+        material Material {
+          diffuseColor 0 0 0
+        }
+      }
+      geometry Cylinder {
+        height 0.0001
+        radius 2.5
+      }
+    }
+  ]
+  name "solid(15)"
+}
+Solid {
+  translation -16.1907 0.002 -7.38194
+  rotation 0 1 0 -0.261795307179586
+  children [
+    Shape {
+      appearance Appearance {
+        material Material {
+          diffuseColor 1 1 1
+        }
+      }
+      geometry Cylinder {
+        height 0.0015
+        radius 1.4
+      }
+    }
+    Shape {
+      appearance DEF BL Appearance {
+        material Material {
+          diffuseColor 0 0 0
+        }
+      }
+      geometry Cylinder {
+        height 0.0001
+        radius 1.5
+      }
+    }
+  ]
+  name "solid(17)"
+}
+DEF MazeR Robot {
+  translation 12.311035290213626 -0.006514341324674683 5.110021584058559
+  rotation 0.010767494387379468 0.9996722577023633 -0.023225809886368586 0.24406885698609304
+  scale 3 3 3
+  children [
+    Camera {
+      translation 0 0.02 0.0500001
+      rotation -7.1923499999293e-09 0.9999999999901701 4.433949999956415e-06 3.14159
+      children [
+        DEF CAM Shape {
+          appearance PBRAppearance {
+            metalness 0
+          }
+          geometry Cylinder {
+            height 0.009
+            radius 0.005
+          }
+        }
+      ]
+      boundingObject USE CAM
+      physics Physics {
+      }
+      recognition Recognition {
+        maxObjects 3
+        frameThickness 3
+      }
+    }
+    DistanceSensor {
+      translation -0.0184499 0.0221634 0.0472457
+      rotation -0.4013529417458322 -0.23648396567565552 -0.8848678715663045 1.74415
+      children [
+        DEF ds Shape {
+          appearance PBRAppearance {
+          }
+          geometry Box {
+            size 0.004 0.004 0.004
+          }
+        }
+      ]
+      name "ds1"
+      boundingObject USE ds
+      physics Physics {
+      }
+      type "infra-red"
+    }
+    DistanceSensor {
+      translation 0.0183979 0.0221353 0.0472485
+      rotation -0.4454118771400545 -0.4370738794399616 -0.7813927844649418 1.21691
+      children [
+        DEF ds Shape {
+          appearance PBRAppearance {
+          }
+          geometry Box {
+            size 0.004 0.004 0.004
+          }
+        }
+      ]
+      name "ds2"
+      boundingObject USE ds
+      physics Physics {
+      }
+      type "infra-red"
+    }
+    DistanceSensor {
+      translation 0.05 0.06 0
+      rotation 0 -1 0 0
+      children [
+        DEF ds Shape {
+          appearance PBRAppearance {
+          }
+          geometry Box {
+            size 0.004 0.004 0.004
+          }
+        }
+      ]
+      name "ds3"
+      physics Physics {
+      }
+    }
+    DEF Body Transform {
+      translation 0 0.0415 0
+      rotation 0 1 0 3.14
+      children [
+        Shape {
+          appearance PBRAppearance {
+            baseColor 1 0 0
+            roughness 1
+            metalness 0
+          }
+          geometry Cylinder {
+            height 0.08
+            radius 0.05
+          }
+        }
+      ]
+    }
+    DistanceSensor {
+      translation 0.037 0.06 0.033
+      rotation 0 -1 0 0.261797
+      children [
+        DEF ds Shape {
+          appearance PBRAppearance {
+          }
+          geometry Box {
+            size 0.004 0.004 0.004
+          }
+        }
+      ]
+      name "ds4"
+      physics Physics {
+      }
+    }
+    DistanceSensor {
+      translation 0 0.03 0.05
+      rotation 0 1 0 -1.5707953071795862
+      children [
+        DEF ds Shape {
+          appearance PBRAppearance {
+          }
+          geometry Box {
+            size 0.004 0.004 0.004
+          }
+        }
+      ]
+      name "ds5"
+      boundingObject USE ds
+      physics Physics {
+      }
+    }
+    HingeJoint {
+      jointParameters HingeJointParameters {
+        position 151743.21336921828
+        anchor 0.045 0.025 0
+      }
+      device [
+        RotationalMotor {
+          name "left wheel motor"
+        }
+      ]
+      endPoint Solid {
+        translation 0.048485799925740695 0.025423384536163444 0.00011756758894185089
+        rotation -0.7060556827565275 0.6848264438348876 -0.18027233473740575 3.514285955339571
+        children [
+          DEF wheel Shape {
+            appearance PBRAppearance {
+              metalness 0
+            }
+            geometry Cylinder {
+              height 0.003
+              radius 0.025
+            }
+          }
+        ]
+        boundingObject USE wheel
+        physics DEF wheel_ph Physics {
+        }
+      }
+    }
+    HingeJoint {
+      jointParameters HingeJointParameters {
+        position 150309.38185979388
+        anchor -0.045 0.025 0
+      }
+      device [
+        RotationalMotor {
+          name "right wheel motor"
+        }
+      ]
+      endPoint Solid {
+        translation -0.04853688714078015 0.02493521686763358 0.00030600607498627386
+        rotation -0.35400165364495517 0.3321782645693985 -0.8742656517125099 4.5583754321825305
+        children [
+          USE wheel
+        ]
+        name "solid(1)"
+        boundingObject USE wheel
+        physics USE wheel_ph
+      }
+    }
+  ]
+  name "robot(1)"
+  boundingObject USE Body
+  physics Physics {
+  }
+  controller "Line_following"
+}
+Solid {
+  translation -5.047897421190679 0.1394052000081877 5.527701787695269
+  rotation 0 1 0 -0.261795307179586
+  children [
+    DEF dsd Shape {
+      appearance Appearance {
+        material Material {
+          diffuseColor 1 0 0
+        }
+        texture ImageTexture {
+        }
+        textureTransform TextureTransform {
+        }
+      }
+      geometry Box {
+        size 0.3 0.3 0.3
+      }
+    }
+  ]
+  name "solid(64)"
+  boundingObject USE dsd
+  physics Physics {
+  }
+  recognitionColors [
+    1 0 0
+  ]
+}
+Solid {
+  translation -14.1785 0.139405 -3.44559
+  rotation -7.539110026095667e-10 1 3.0297300784711724e-10 -1.0356087765641508
+  children [
+    DEF dsd Shape {
+      appearance Appearance {
+        material Material {
+          diffuseColor 1 0 0
+        }
+        texture ImageTexture {
+        }
+        textureTransform TextureTransform {
+        }
+      }
+      geometry Box {
+        size 0.3 0.3 0.3
+      }
+    }
+  ]
+  name "solid(65)"
+  boundingObject USE dsd
+  physics Physics {
+  }
+  recognitionColors [
+    1 0 0
+  ]
+}
+Solid {
+  translation 0.818889332486454 0.1394052000118899 7.097289709391594
+  rotation 0 1 0 -0.261795307179586
+  children [
+    DEF dsd Shape {
+      appearance Appearance {
+        material Material {
+          diffuseColor 1 0 0
+        }
+        texture ImageTexture {
+        }
+        textureTransform TextureTransform {
+        }
+      }
+      geometry Box {
+        size 0.3 0.3 0.3
+      }
+    }
+  ]
+  name "solid(31)"
+  boundingObject USE dsd
+  physics Physics {
+  }
+  recognitionColors [
+    1 0 0
+  ]
+}
+Solid {
+  translation 3.203332634835416 0.1394052000141894 7.738924697566374
+  rotation -3.2569733921171326e-09 1 2.626459386833742e-09 -0.19975489701675558
+  children [
+    DEF dsd Shape {
+      appearance Appearance {
+        material Material {
+          diffuseColor 1 0 0
+        }
+        texture ImageTexture {
+        }
+        textureTransform TextureTransform {
+        }
+      }
+      geometry Box {
+        size 0.3 0.3 0.3
+      }
+    }
+  ]
+  name "solid(63)"
+  boundingObject USE dsd
+  physics Physics {
+  }
+  recognitionColors [
+    1 0 0
+  ]
+}
+Solid {
+  translation 13.461901102859452 0.13940519995317074 10.394500968071602
+  rotation 0 1 0 1.0472
+  children [
+    DEF dsd Shape {
+      appearance Appearance {
+        material Material {
+          diffuseColor 1 0 0
+        }
+        texture ImageTexture {
+        }
+        textureTransform TextureTransform {
+        }
+      }
+      geometry Box {
+        size 0.3 0.3 0.3
+      }
+    }
+  ]
+  name "solid(41)"
+  boundingObject USE dsd
+  physics Physics {
+  }
+  recognitionColors [
+    1 0 0
+  ]
+}
+Solid {
+  translation 2.68174 0.0082 -0.590116
+  rotation 0 -1 0 0.261795
+  children [
+    DEF dsd Shape {
+      appearance Appearance {
+        material Material {
+          diffuseColor 0 0 0
+        }
+        texture ImageTexture {
+        }
+        textureTransform TextureTransform {
+        }
+      }
+      geometry Box {
+        size 0.09 0.001 2.5
+      }
+    }
+  ]
+  name "solid(1)"
+  recognitionColors [
+    1 0 0
+  ]
+}
+Solid {
+  translation 2.65325 0.0082 -0.483867
+  rotation 0 -1 0 0.261795
+  children [
+    DEF dsd Shape {
+      appearance Appearance {
+        material Material {
+          diffuseColor 0 0 0
+        }
+        texture ImageTexture {
+        }
+        textureTransform TextureTransform {
+        }
+      }
+      geometry Box {
+        size 0.09 0.001 2.5
+      }
+    }
+  ]
+  name "solid(43)"
+  recognitionColors [
+    1 0 0
+  ]
+}
+Solid {
+  translation -2.04429 0.0082 -1.84614
+  rotation 0 -1 0 0.261795
+  children [
+    DEF dsd Shape {
+      appearance Appearance {
+        material Material {
+          diffuseColor 0 0 0
+        }
+        texture ImageTexture {
+        }
+        textureTransform TextureTransform {
+        }
+      }
+      geometry Box {
+        size 0.09 0.001 2.5
+      }
+    }
+  ]
+  name "solid(6)"
+  recognitionColors [
+    1 0 0
+  ]
+}
+Solid {
+  translation -10.689 -0.0001 2.42499
+  rotation 0 -1 0 -2.094395307179586
+  children [
+    DEF dsd Shape {
+      appearance Appearance {
+        material Material {
+          diffuseColor 0 0 0
+        }
+        texture ImageTexture {
+        }
+        textureTransform TextureTransform {
+        }
+      }
+      geometry Box {
+        size 0.09 0.001 2.5
+      }
+    }
+  ]
+  name "solid(37)"
+  recognitionColors [
+    1 0 0
+  ]
+}
+Solid {
+  translation -14.7676 -0.0001 -2.07915
+  rotation 0 -1 0 -2.094395307179586
+  children [
+    DEF dsd Shape {
+      appearance Appearance {
+        material Material {
+          diffuseColor 0 0 0
+        }
+        texture ImageTexture {
+        }
+        textureTransform TextureTransform {
+        }
+      }
+      geometry Box {
+        size 0.09 0.001 2.5
+      }
+    }
+  ]
+  name "solid(29)"
+  recognitionColors [
+    1 0 0
+  ]
+}
+Solid {
+  translation -14.3531 -0.0001 -3.76165
+  rotation 0 1 0 -2.6179953071795863
+  children [
+    DEF dsd Shape {
+      appearance Appearance {
+        material Material {
+          diffuseColor 0 0 0
+        }
+        texture ImageTexture {
+        }
+        textureTransform TextureTransform {
+        }
+      }
+      geometry Box {
+        size 0.09 0.001 2.5
+      }
+    }
+  ]
+  name "solid(32)"
+  recognitionColors [
+    1 0 0
+  ]
+}
+Solid {
+  translation -16.4235 -0.0001 -2.56665
+  rotation 0 1 0 -2.6179953071795863
+  children [
+    DEF dsd Shape {
+      appearance Appearance {
+        material Material {
+          diffuseColor 0 0 0
+        }
+        texture ImageTexture {
+        }
+        textureTransform TextureTransform {
+        }
+      }
+      geometry Box {
+        size 0.09 0.001 2.5
+      }
+    }
+  ]
+  name "solid(34)"
+  recognitionColors [
+    1 0 0
+  ]
+}
+Solid {
+  translation -16.6141 -0.0001 -5.29701
+  rotation 0 1 0 -2.6179953071795863
+  children [
+    DEF dsd Shape {
+      appearance Appearance {
+        material Material {
+          diffuseColor 0 0 0
+        }
+        texture ImageTexture {
+        }
+        textureTransform TextureTransform {
+        }
+      }
+      geometry Box {
+        size 0.09 0.001 2.5
+      }
+    }
+  ]
+  name "solid(45)"
+  recognitionColors [
+    1 0 0
+  ]
+}
+Solid {
+  translation -15.9977 -0.0001 -4.20952
+  rotation 0 1 0 2.09439
+  children [
+    DEF dsd Shape {
+      appearance Appearance {
+        material Material {
+          diffuseColor 0 0 0
+        }
+        texture ImageTexture {
+        }
+        textureTransform TextureTransform {
+        }
+      }
+      geometry Box {
+        size 0.09 0.001 2.5
+      }
+    }
+  ]
+  name "solid(38)"
+  recognitionColors [
+    1 0 0
+  ]
+}
+Solid {
+  translation -10.446 -0.0001 2.28499
+  rotation 0 -1 0 -2.094395307179586
+  children [
+    DEF dsd Shape {
+      appearance Appearance {
+        material Material {
+          diffuseColor 0 0 0
+        }
+        texture ImageTexture {
+        }
+        textureTransform TextureTransform {
+        }
+      }
+      geometry Box {
+        size 0.09 0.001 2.5
+      }
+    }
+  ]
+  name "solid(36)"
+  recognitionColors [
+    1 0 0
+  ]
+}
+Solid {
+  translation -9.08332 -0.0001 2.87582
+  rotation 0 1 0 0.261795
+  children [
+    DEF dsd Shape {
+      appearance Appearance {
+        material Material {
+          diffuseColor 0 0 0
+        }
+        texture ImageTexture {
+        }
+        textureTransform TextureTransform {
+        }
+      }
+      geometry Box {
+        size 0.09 0.001 2.5
+      }
+    }
+  ]
+  name "solid(33)"
+  recognitionColors [
+    1 0 0
+  ]
+}
+Solid {
+  translation -8.95646 -0.0001 3.34914
+  rotation 0 1 0 0.261795
+  children [
+    DEF dsd Shape {
+      appearance Appearance {
+        material Material {
+          diffuseColor 0 0 0
+        }
+        texture ImageTexture {
+        }
+        textureTransform TextureTransform {
+        }
+      }
+      geometry Box {
+        size 0.09 0.001 2.5
+      }
+    }
+  ]
+  name "solid(30)"
+  recognitionColors [
+    1 0 0
+  ]
+}
+Solid {
+  translation -13.4038 0.0082 -8.13995
+  rotation 0 1 0 1.309
+  children [
+    DEF dsd Shape {
+      appearance Appearance {
+        material Material {
+          diffuseColor 0 0 0
+        }
+        texture ImageTexture {
+        }
+        textureTransform TextureTransform {
+        }
+      }
+      geometry Box {
+        size 0.09 0.001 5
+      }
+    }
+  ]
+  name "solid(47)"
+  recognitionColors [
+    1 0 0
+  ]
+}
+Solid {
+  translation -5.96016 0.0082 -6.86006
+  rotation 0 1 0 1.309
+  children [
+    DEF dsd Shape {
+      appearance Appearance {
+        material Material {
+          diffuseColor 0 0 0
+        }
+        texture ImageTexture {
+        }
+        textureTransform TextureTransform {
+        }
+      }
+      geometry Box {
+        size 0.09 0.001 5
+      }
+    }
+  ]
+  name "solid(5)"
+  recognitionColors [
+    1 0 0
+  ]
+}
+Solid {
+  translation -10.1164 0.0082 -7.50906
+  rotation 0 1 0 1.5708
+  children [
+    DEF dsd Shape {
+      appearance Appearance {
+        material Material {
+          diffuseColor 0 0 0
+        }
+        texture ImageTexture {
+        }
+        textureTransform TextureTransform {
+        }
+      }
+      geometry Box {
+        size 0.09 0.001 2
+      }
+    }
+  ]
+  name "solid(14)"
+  recognitionColors [
+    1 0 0
+  ]
+}
+Solid {
+  translation -9.3464 0.0082 -7.50906
+  rotation 0 1 0 1.5708
+  children [
+    DEF dsd Shape {
+      appearance Appearance {
+        material Material {
+          diffuseColor 0 0 0
+        }
+        texture ImageTexture {
+        }
+        textureTransform TextureTransform {
+        }
+      }
+      geometry Box {
+        size 0.09 0.001 2
+      }
+    }
+  ]
+  name "solid(46)"
+  recognitionColors [
+    1 0 0
+  ]
+}
+Solid {
+  translation -5.57382 0.0082 -6.75657
+  rotation 0 1 0 1.309
+  children [
+    DEF dsd Shape {
+      appearance Appearance {
+        material Material {
+          diffuseColor 0 0 0
+        }
+        texture ImageTexture {
+        }
+        textureTransform TextureTransform {
+        }
+      }
+      geometry Box {
+        size 0.09 0.001 5
+      }
+    }
+  ]
+  name "solid(40)"
+  recognitionColors [
+    1 0 0
+  ]
+}
+Solid {
+  translation 8.33573 0.0002 -3.02973
+  rotation 0 1 0 1.309
+  children [
+    DEF dsd Shape {
+      appearance Appearance {
+        material Material {
+          diffuseColor 0 0 0
+        }
+        texture ImageTexture {
+        }
+        textureTransform TextureTransform {
+        }
+      }
+      geometry Box {
+        size 0.09 0.001 5
+      }
+    }
+  ]
+  name "solid(13)"
+  recognitionColors [
+    1 0 0
+  ]
+}
+Solid {
+  translation 0.322135 0.002 -1.21212
+  rotation 0 1 0 1.309
+  children [
+    DEF dsd Shape {
+      appearance Appearance {
+        material Material {
+          diffuseColor 1 1 1
+        }
+        texture ImageTexture {
+        }
+        textureTransform TextureTransform {
+        }
+      }
+      geometry Box {
+        size 2.5 0.001 5
+      }
+    }
+  ]
+  name "solid(4)"
+  recognitionColors [
+    1 0 0
+  ]
+}
+Solid {
+  translation 5.01682 -0.00825 0.0457049
+  rotation 0 1 0 1.309
+  children [
+    DEF dsd Shape {
+      appearance Appearance {
+        material Material {
+          diffuseColor 1 1 1
+        }
+        texture ImageTexture {
+        }
+        textureTransform TextureTransform {
+        }
+      }
+      geometry Box {
+        size 2.5 0.001 5
+      }
+    }
+  ]
+  name "solid(3)"
+  recognitionColors [
+    1 0 0
+  ]
+}
+Solid {
+  translation -4.4015 0.002 -2.47802
+  rotation 0 1 0 1.309
+  children [
+    DEF dsd Shape {
+      appearance Appearance {
+        material Material {
+          diffuseColor 1 1 1
+        }
+        texture ImageTexture {
+        }
+        textureTransform TextureTransform {
+        }
+      }
+      geometry Box {
+        size 2.5 0.001 5
+      }
+    }
+  ]
+  name "solid(9)"
+  recognitionColors [
+    1 0 0
+  ]
+}
+Solid {
+  translation -10.8849 0.002 -4.21481
+  rotation 0 1 0 1.309
+  children [
+    DEF dsd Shape {
+      appearance Appearance {
+        material Material {
+          diffuseColor 1 1 1
+        }
+        texture ImageTexture {
+        }
+        textureTransform TextureTransform {
+        }
+      }
+      geometry Box {
+        size 2.5 0.001 5
+      }
+    }
+  ]
+  name "solid(25)"
+  recognitionColors [
+    1 0 0
+  ]
+}
+Solid {
+  translation -12.291 0.002 -5.30871
+  rotation 0 1 0 2.0944
+  children [
+    DEF dsd Shape {
+      appearance Appearance {
+        material Material {
+          diffuseColor 1 1 1
+        }
+        texture ImageTexture {
+        }
+        textureTransform TextureTransform {
+        }
+      }
+      geometry Box {
+        size 2.5 0.001 5
+      }
+    }
+  ]
+  name "solid(39)"
+  recognitionColors [
+    1 0 0
+  ]
+}
+Solid {
+  translation -14.4216 0.002 -6.59659
+  rotation 0 1 0 2.0944
+  children [
+    DEF dsd Shape {
+      appearance Appearance {
+        material Material {
+          diffuseColor 1 1 1
+        }
+        texture ImageTexture {
+        }
+        textureTransform TextureTransform {
+        }
+      }
+      geometry Box {
+        size 2.5 0.001 5
+      }
+    }
+  ]
+  name "solid(48)"
+  recognitionColors [
+    1 0 0
+  ]
+}
+Solid {
+  translation -13.694 0.002 -6.88137
+  rotation 0 1 0 -1.8325853071795866
+  children [
+    DEF dsd Shape {
+      appearance Appearance {
+        material Material {
+          diffuseColor 1 1 1
+        }
+        texture ImageTexture {
+        }
+        textureTransform TextureTransform {
+        }
+      }
+      geometry Box {
+        size 2.5 0.001 5
+      }
+    }
+  ]
+  name "solid(49)"
+  recognitionColors [
+    1 0 0
+  ]
+}
+Solid {
+  translation -10.2321 0.002 -6.64903
+  rotation 0 1 0 1.309
+  children [
+    DEF dsd Shape {
+      appearance Appearance {
+        material Material {
+          diffuseColor 1 1 1
+        }
+        texture ImageTexture {
+        }
+        textureTransform TextureTransform {
+        }
+      }
+      geometry Box {
+        size 2.5 0.001 5
+      }
+    }
+  ]
+  name "solid(26)"
+  recognitionColors [
+    1 0 0
+  ]
+}
+Solid {
+  translation -4.4015 0.002 -2.47802
+  rotation 0 1 0 1.309
+  children [
+    DEF dsd Shape {
+      appearance Appearance {
+        material Material {
+          diffuseColor 1 1 1
+        }
+        texture ImageTexture {
+        }
+        textureTransform TextureTransform {
+        }
+      }
+      geometry Box {
+        size 2.5 0.001 5
+      }
+    }
+  ]
+  name "solid(11)"
+  recognitionColors [
+    1 0 0
+  ]
+}
+Solid {
+  translation 8.84711 0.002 -0.263768
+  rotation 0 1 0 2.8798
+  children [
+    DEF dsd Shape {
+      appearance Appearance {
+        material Material {
+          diffuseColor 1 1 1
+        }
+        texture ImageTexture {
+        }
+        textureTransform TextureTransform {
+        }
+      }
+      geometry Box {
+        size 2.5 0.001 5
+      }
+    }
+  ]
+  name "solid(16)"
+  recognitionColors [
+    1 0 0
+  ]
+}
+Solid {
+  translation 6.62539 0.002 -0.859039
+  rotation 0 1 0 2.8798
+  children [
+    DEF dsd Shape {
+      appearance Appearance {
+        material Material {
+          diffuseColor 1 1 1
+        }
+        texture ImageTexture {
+        }
+        textureTransform TextureTransform {
+        }
+      }
+      geometry Box {
+        size 2.5 0.001 5
+      }
+    }
+  ]
+  name "solid(10)"
+  recognitionColors [
+    1 0 0
+  ]
+}
+Solid {
+  translation 9.42264 0.002 1.14317
+  rotation 0 -1 0 -1.3090053071795866
+  children [
+    DEF dsd Shape {
+      appearance Appearance {
+        material Material {
+          diffuseColor 1 1 1
+        }
+        texture ImageTexture {
+        }
+        textureTransform TextureTransform {
+        }
+      }
+      geometry Box {
+        size 2.5 0.001 5
+      }
+    }
+  ]
+  name "solid(18)"
+  recognitionColors [
+    1 0 0
+  ]
+}
+Solid {
+  translation 5.15305 0.002 -0.00076795
+  rotation 0 -1 0 -1.3090053071795866
+  children [
+    DEF dsd Shape {
+      appearance Appearance {
+        material Material {
+          diffuseColor 1 1 1
+        }
+        texture ImageTexture {
+        }
+        textureTransform TextureTransform {
+        }
+      }
+      geometry Box {
+        size 2.5 0.001 5
+      }
+    }
+  ]
+  name "solid(42)"
+  recognitionColors [
+    1 0 0
+  ]
+}
+Solid {
+  translation -5.27368 0.002 -4.13044
+  rotation 0 1 0 2.8798
+  children [
+    DEF dsd Shape {
+      appearance Appearance {
+        material Material {
+          diffuseColor 1 1 1
+        }
+        texture ImageTexture {
+        }
+        textureTransform TextureTransform {
+        }
+      }
+      geometry Box {
+        size 2.5 0.001 5
+      }
+    }
+  ]
+  name "solid(12)"
+  recognitionColors [
+    1 0 0
+  ]
+}
